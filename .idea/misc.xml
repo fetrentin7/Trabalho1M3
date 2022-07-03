@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_bom_apetite.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_fim.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_forma_pagamento.xml" value="0.1" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_funcionario.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_main.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_menu2.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_menu_cliente.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_menu_funcionario.xml" value="0.22327898550724637" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_menu_sopas.xml" value="0.1" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/activity_tela_menu.xml" value="0.1" />
+        <entry key="..\:/TrabalhoM2-0236d156c6f550d0383a6e7883aceada13c2ff21/app/src/main/res/layout/fragment_pagamento.xml" value="0.1" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_aviso.xml" value="0.14488348530901723" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_bom_apetite.xml" value="0.25" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_botao_funcionario.xml" value="0.16945288753799392" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_fim.xml" value="0.25" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_forma_pagamento.xml" value="0.25" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_funcionario.xml" value="0.1762917933130699" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_main2.xml" value="0.26459143968871596" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu2.xml" value="0.3625" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu3.xml" value="0.33" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu5.xml" value="0.3625" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu_cliente.xml" value="0.2866847826086957" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu_funcionario.xml" value="0.15896739130434784" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_menu_sopas.xml" value="0.14488348530901723" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/activity_tela_menu.xml" value="0.25" />
+        <entry key="..\:/Users/ferna/AndroidStudioProjects/TrabalhoM22/app/src/main/res/layout/fragment_pagamento.xml" value="0.27956989247311825" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.1762917933130699" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
